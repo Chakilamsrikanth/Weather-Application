@@ -5,8 +5,8 @@
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/chakilamsrikanth/Weather-App/blob/master/SS/image1.jpg" width="200"/>
-	<img src="https://github.com/chakilamsrikanth/Weather-App/blob/master/SS/image2.jpg" width="200"/>
+	<img src="https://github.com/Chakilamsrikanth/Weather-Application/blob/main/SS/image1.jpg" width="200"/>
+	<img src="https://github.com/Chakilamsrikanth/Weather-Application/blob/main/SS/image2.jpg" width="200"/>
 </p>
 
 
