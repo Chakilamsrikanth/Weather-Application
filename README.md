@@ -1,4 +1,4 @@
-# Weather App 🌧️🌧️💙💙
+# Weather App 🌧️🌧️
 
 
 
@@ -12,7 +12,6 @@
 
 #### Simple and Beautiful Weather App using Java.
 
-I am using **https://openweathermap.org/** to get all the data using JSON file.
 
 ### Steps :
 
@@ -28,7 +27,7 @@ public final static String API_KEY = "81a26c8f0de407b94623e9f43e825679";
 
 <br/>
 
-#### API key calling from this website : **https://openweathermap.org/api/one-call-3**
+#### API key calling from the website
 
 #### The One Call API provides the following weather data for any geographical coordinates:
 
@@ -43,10 +42,4 @@ public final static String API_KEY = "81a26c8f0de407b94623e9f43e825679";
 
 > Single API key on have
 
-## Contributing
 
-Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
-
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
